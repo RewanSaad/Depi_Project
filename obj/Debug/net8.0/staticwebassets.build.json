@@ -1,0 +1,4657 @@
+{
+  "Version": 1,
+  "Hash": "gBSJg/hyBi8b89FtAbclRYUPqHGTDTNj4+WE8xkV3wc=",
+  "Source": "RecipeApp",
+  "BasePath": "_content/RecipeApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RecipeApp\\wwwroot",
+      "Source": "RecipeApp",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\about.html",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "about#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "594xg6gle0",
+      "Integrity": "ybuLBB2dUwxaAAK1qwmdRwCHdJGTEgqmsRzwEfEx9hA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\about.html"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\berry.html",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "berry#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7n0hlsts41",
+      "Integrity": "fe2DkpeeUTGPyz9psDx8lOmVPwA2rHms87t9dDS1AEE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\berry.html"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\contact.html",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "contact#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jlhtkothgj",
+      "Integrity": "VwJo6rZW/tZBN7EqfYW5m/DGGf1C6zRB+UP51WJrE1g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\contact.html"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\berry.css",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "cssFiles/berry#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qmrta6ml8c",
+      "Integrity": "3gxsGA92Z3LhiZc9xzPWbS5N2CG8jcVywDin47NHIes=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cssFiles\\berry.css"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\contact.css",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "cssFiles/contact#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "67iruhy4yc",
+      "Integrity": "Hom7UXMYBGCVqo+iLw2KmgRBNlwwvXM1CyrPyAidfmc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cssFiles\\contact.css"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\login.css",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "cssFiles/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zaf3wo47p4",
+      "Integrity": "xQ8Bk8SymUL5kxhd1ts8o6LU/jt5mTsAEhVGYXXfmSE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cssFiles\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\reciepe.css",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "cssFiles/reciepe#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xxghduijop",
+      "Integrity": "+0qtYzzGwyaDnwcfp6H+vzOw+zZvf0qeJoTbFvguCuU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cssFiles\\reciepe.css"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\recipe.css",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "cssFiles/recipe#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eth4qtu0i9",
+      "Integrity": "zv6zBYjozMK8oM34g2sHCaQjuAWNvN/icIYCgS/aAeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cssFiles\\recipe.css"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\Risto.css",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "cssFiles/Risto#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2av7vp6qqd",
+      "Integrity": "Gv3kW2L3WuFSpQz/py+6t829FJ3egZWD8FtKNnj9mqY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cssFiles\\Risto.css"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\shrimp.css",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "cssFiles/shrimp#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2av7vp6qqd",
+      "Integrity": "Gv3kW2L3WuFSpQz/py+6t829FJ3egZWD8FtKNnj9mqY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cssFiles\\shrimp.css"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\style.css",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "cssFiles/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lxxdjfcwga",
+      "Integrity": "98NKXKDVj9LC4ncQIwuSm6hzwNz0a6jq4jEIAtbkJMg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\cssFiles\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\download.png",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "download#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0pp765xus",
+      "Integrity": "8RklQ/0SRahJvYhE92HEirf6gs7TCT4HjzNllITrZis=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\download.png"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\food.png",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "food#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yrabnxl1et",
+      "Integrity": "TjZR4ERQpQ9bLVKtIKoXkfyi9i8THAgdZ6oaDv34iGw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\food.png"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\home.html",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "home#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ngl0zgvwl8",
+      "Integrity": "WWAk0MJSxKenqjh1caDDJmARcBcZjFHRXuwtnMSIjVk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\home.html"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\berry.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/berry#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y4wij5izdv",
+      "Integrity": "Mnqkx9gRmwMm+8r2iD5tp/wKlQaYgyQDFTIdDhev894=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\berry.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\David.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/David#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ee9hh695pj",
+      "Integrity": "1qKT/T+xepVoFZAJy0va5BY65q109CzSZ/vAVT98qzQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\David.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\fresh-vegetables-spices-spoons_23-2147694239.avif",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/fresh-vegetables-spices-spoons_23-2147694239#[.{fingerprint}]?.avif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nbgm12fyoy",
+      "Integrity": "3arqtlWd9T3PIi9PJqebdatAROYPCpgSyOfdcNeEgKA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\fresh-vegetables-spices-spoons_23-2147694239.avif"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\gaby-dyson-QX814A1w3j4-unsplash.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/gaby-dyson-QX814A1w3j4-unsplash#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "p05tznzo84",
+      "Integrity": "qa23ayb8NXYYZWpLMGWYxKUY3Qr2704JtU3QRviz5A8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\gaby-dyson-QX814A1w3j4-unsplash.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\ivan-torres-MQUqbmszGGM-unsplash.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/ivan-torres-MQUqbmszGGM-unsplash#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gggykt4uxr",
+      "Integrity": "MJAtLB4PPm+M0bu9F8lGGbr+ekYfdAqEwhvZEJLN/BA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\ivan-torres-MQUqbmszGGM-unsplash.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\jenn-kosar-k5VGs9qQubc-unsplash.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/jenn-kosar-k5VGs9qQubc-unsplash#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fppqplgp8o",
+      "Integrity": "XY5PHMjT/sy2a9RvfIlOTD5PC5ZsJTTa3PU9cd1rKHk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\jenn-kosar-k5VGs9qQubc-unsplash.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\lindsay-cotter-9J7sHieVFi0-unsplash.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/lindsay-cotter-9J7sHieVFi0-unsplash#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ev51xx3fxb",
+      "Integrity": "BleClt+jjUyUmU/2jg687YyEXWg787Eb2ZH+Gz6kiBU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lindsay-cotter-9J7sHieVFi0-unsplash.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\luisana-zerpa-MJPr6nOdppw-unsplash.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/luisana-zerpa-MJPr6nOdppw-unsplash#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nrczfs1ped",
+      "Integrity": "nSXH5IAIt9Oc9Mv3jh3flPOyPFtJNjo1bBm5BygLcIM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\luisana-zerpa-MJPr6nOdppw-unsplash.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\Mariam.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/Mariam#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1jurgbutva",
+      "Integrity": "s/Ck/c2IMn2IyUt+uSQFbXmN6uG8ViO2PGyHMj2A7g8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Mariam.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\masimo-grabar-NzHRSLhc6Cs-unsplash.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/masimo-grabar-NzHRSLhc6Cs-unsplash#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pse1susu8c",
+      "Integrity": "1+r4LLkzKG25dzcgga91q4PJ+b3mcuwzFzm+TIMRDHE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\masimo-grabar-NzHRSLhc6Cs-unsplash.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\mushroom.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/mushroom#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "en24wp3j2r",
+      "Integrity": "lgXVblMjlaP5aO2fWBGPYwFx7xDwplrfBNa8804h7uI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\mushroom.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\risto.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/risto#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lkipxx3itl",
+      "Integrity": "Rb+d1nbloCw28AKmB8hmtlcNIK9ulrHM2RAcGJur3U4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\risto.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\saundarya-srinivasan-60nzTP7_hMQ-unsplash.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/saundarya-srinivasan-60nzTP7_hMQ-unsplash#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pmhhju4aq0",
+      "Integrity": "gV5nV4b2vux+uGayxqD7gk/2w15wuTVPMtfSn0kllWo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\saundarya-srinivasan-60nzTP7_hMQ-unsplash.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\Sausage-ragu_8.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/Sausage-ragu_8#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vag1k4pqcd",
+      "Integrity": "OcPYh/TEVd2vjqfp7jBCu9I6fbqYg/N6yCB+WxzHNkc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Sausage-ragu_8.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\shrimp.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/shrimp#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pxnb51149n",
+      "Integrity": "E9mfESIecBnFCN51zAXCb+Mz48aSXY97Cr6a0/4ISJg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\shrimp.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\sophie.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "images/sophie#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wnj5kj5mw3",
+      "Integrity": "NH2AShxnKh/6z88JbY0LcY4BpFWcOvWaLJtKQyCAw54=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\sophie.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\index.html",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mh6jhlbxft",
+      "Integrity": "mrzPeRN1nwtmlVacfoBWJ7M0RKI0tlxOQ2972RTgVKA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\js\\api\\authApi.js",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "js/api/authApi#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l8xwgf097d",
+      "Integrity": "RVzcS25pD68VhGbw3ULJIK6hfD8lkQoS7zgP/flcb3g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\api\\authApi.js"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\js\\api\\recipeApi.js",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "js/api/recipeApi#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ztjoxo01a",
+      "Integrity": "fiWZl+bMSiO2A8HvZ2zunWr8klOpHdKzemDBrFhS8kY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\api\\recipeApi.js"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\js\\api\\subscriptionApi.js",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "js/api/subscriptionApi#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oq6b7iie6s",
+      "Integrity": "IHqo+0NInxKfpnHNUfRzfFyS+3cpTuQWBATq8VGEVPM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\api\\subscriptionApi.js"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\js\\recipe.js",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "js/recipe#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lebnr8k08q",
+      "Integrity": "ffT258d0WyNF/GmbxT+UHxGO5oiv5PXJSwXxFZtGaNI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\recipe.js"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\Leonardo_Phoenix_09_Create_a_modern_soft_and_friendly_digital_0.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "Leonardo_Phoenix_09_Create_a_modern_soft_and_friendly_digital_0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jv3sx3afzk",
+      "Integrity": "YfCe5Fc6q6+ID/UKv0qSxTurxhfYUbL+pPh7zf34foE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Leonardo_Phoenix_09_Create_a_modern_soft_and_friendly_digital_0.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\login.html",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "login#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h4uemw5lg9",
+      "Integrity": "/4ly2E3RO8idwipBmvOadZJ4HBlWgoVBIqgxdFUpQw0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\login.html"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\main.js",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "main#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ho0k910w9a",
+      "Integrity": "cY2Ib8wzQ6xdLmcrI05RjkfvlbGptydQ1lu6Q0j0eIE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\recipe.html",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "recipe#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w56fa5lqha",
+      "Integrity": "DOX3o8sEBTbAGNCf9ByKoKZCeKyWAc8hgZ/uuP//cBw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\recipe.html"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\Risto.html",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "Risto#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "biyfvc71og",
+      "Integrity": "czslovW9lOEoBCjNp3zzdnXdr9p3faFraJctnKoPPmA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Risto.html"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\Screenshot 2025-04-28 005334.png",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "Screenshot 2025-04-28 005334#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "px5pb94u0q",
+      "Integrity": "s6bUe88J9m32ZymYU1RvXCoTaRoSXEfYwTIvkIMr5xY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Screenshot 2025-04-28 005334.png"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\script.js",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "script#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oltqb2ltp9",
+      "Integrity": "pCQXSc4H27KRPf7KvVWucoqW6R7y3az5+L89srkyC9o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\shrimp.html",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "shrimp#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w58eb6zttd",
+      "Integrity": "1FMBjXzVsLZznzCtYo993yf35n4pLilZmQZuvSBs3MA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\shrimp.html"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\style.css",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ualu7stooh",
+      "Integrity": "qhHWUBzIasazuxTuMJ8P0m3lLIdX7LEFIXSSNDhpiKs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\WhatsApp Image 2025-04-27 at 22.09.43_fe50de76.jpg",
+      "SourceId": "RecipeApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\",
+      "BasePath": "_content/RecipeApp",
+      "RelativePath": "WhatsApp Image 2025-04-27 at 22.09.43_fe50de76#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kc81a7xy01",
+      "Integrity": "fMn6PXC6LUvivz9FC2sYXLYm6XaULLX+XyuJ5vZuAj8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\WhatsApp Image 2025-04-27 at 22.09.43_fe50de76.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "about.594xg6gle0.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\about.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ybuLBB2dUwxaAAK1qwmdRwCHdJGTEgqmsRzwEfEx9hA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "594xg6gle0"
+        },
+        {
+          "Name": "label",
+          "Value": "about.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ybuLBB2dUwxaAAK1qwmdRwCHdJGTEgqmsRzwEfEx9hA="
+        }
+      ]
+    },
+    {
+      "Route": "about.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\about.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4887"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ybuLBB2dUwxaAAK1qwmdRwCHdJGTEgqmsRzwEfEx9hA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:58:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ybuLBB2dUwxaAAK1qwmdRwCHdJGTEgqmsRzwEfEx9hA="
+        }
+      ]
+    },
+    {
+      "Route": "berry.7n0hlsts41.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\berry.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fe2DkpeeUTGPyz9psDx8lOmVPwA2rHms87t9dDS1AEE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7n0hlsts41"
+        },
+        {
+          "Name": "label",
+          "Value": "berry.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fe2DkpeeUTGPyz9psDx8lOmVPwA2rHms87t9dDS1AEE="
+        }
+      ]
+    },
+    {
+      "Route": "berry.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\berry.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5668"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fe2DkpeeUTGPyz9psDx8lOmVPwA2rHms87t9dDS1AEE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fe2DkpeeUTGPyz9psDx8lOmVPwA2rHms87t9dDS1AEE="
+        }
+      ]
+    },
+    {
+      "Route": "contact.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\contact.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwJo6rZW/tZBN7EqfYW5m/DGGf1C6zRB+UP51WJrE1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:27:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwJo6rZW/tZBN7EqfYW5m/DGGf1C6zRB+UP51WJrE1g="
+        }
+      ]
+    },
+    {
+      "Route": "contact.jlhtkothgj.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\contact.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3727"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VwJo6rZW/tZBN7EqfYW5m/DGGf1C6zRB+UP51WJrE1g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:27:51 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jlhtkothgj"
+        },
+        {
+          "Name": "label",
+          "Value": "contact.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VwJo6rZW/tZBN7EqfYW5m/DGGf1C6zRB+UP51WJrE1g="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/berry.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\berry.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3gxsGA92Z3LhiZc9xzPWbS5N2CG8jcVywDin47NHIes=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3gxsGA92Z3LhiZc9xzPWbS5N2CG8jcVywDin47NHIes="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/berry.qmrta6ml8c.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\berry.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3gxsGA92Z3LhiZc9xzPWbS5N2CG8jcVywDin47NHIes=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qmrta6ml8c"
+        },
+        {
+          "Name": "label",
+          "Value": "cssFiles/berry.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3gxsGA92Z3LhiZc9xzPWbS5N2CG8jcVywDin47NHIes="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/contact.67iruhy4yc.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\contact.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hom7UXMYBGCVqo+iLw2KmgRBNlwwvXM1CyrPyAidfmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:10:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "67iruhy4yc"
+        },
+        {
+          "Name": "label",
+          "Value": "cssFiles/contact.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hom7UXMYBGCVqo+iLw2KmgRBNlwwvXM1CyrPyAidfmc="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/contact.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\contact.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hom7UXMYBGCVqo+iLw2KmgRBNlwwvXM1CyrPyAidfmc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:10:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hom7UXMYBGCVqo+iLw2KmgRBNlwwvXM1CyrPyAidfmc="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/login.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xQ8Bk8SymUL5kxhd1ts8o6LU/jt5mTsAEhVGYXXfmSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xQ8Bk8SymUL5kxhd1ts8o6LU/jt5mTsAEhVGYXXfmSE="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/login.zaf3wo47p4.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8635"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xQ8Bk8SymUL5kxhd1ts8o6LU/jt5mTsAEhVGYXXfmSE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zaf3wo47p4"
+        },
+        {
+          "Name": "label",
+          "Value": "cssFiles/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xQ8Bk8SymUL5kxhd1ts8o6LU/jt5mTsAEhVGYXXfmSE="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/reciepe.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\reciepe.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+0qtYzzGwyaDnwcfp6H+vzOw+zZvf0qeJoTbFvguCuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+0qtYzzGwyaDnwcfp6H+vzOw+zZvf0qeJoTbFvguCuU="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/reciepe.xxghduijop.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\reciepe.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4884"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+0qtYzzGwyaDnwcfp6H+vzOw+zZvf0qeJoTbFvguCuU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xxghduijop"
+        },
+        {
+          "Name": "label",
+          "Value": "cssFiles/reciepe.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+0qtYzzGwyaDnwcfp6H+vzOw+zZvf0qeJoTbFvguCuU="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/recipe.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\recipe.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zv6zBYjozMK8oM34g2sHCaQjuAWNvN/icIYCgS/aAeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:17:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zv6zBYjozMK8oM34g2sHCaQjuAWNvN/icIYCgS/aAeU="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/recipe.eth4qtu0i9.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\recipe.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "658"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zv6zBYjozMK8oM34g2sHCaQjuAWNvN/icIYCgS/aAeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:17:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eth4qtu0i9"
+        },
+        {
+          "Name": "label",
+          "Value": "cssFiles/recipe.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zv6zBYjozMK8oM34g2sHCaQjuAWNvN/icIYCgS/aAeU="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/Risto.2av7vp6qqd.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\Risto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gv3kW2L3WuFSpQz/py+6t829FJ3egZWD8FtKNnj9mqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2av7vp6qqd"
+        },
+        {
+          "Name": "label",
+          "Value": "cssFiles/Risto.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gv3kW2L3WuFSpQz/py+6t829FJ3egZWD8FtKNnj9mqY="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/Risto.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\Risto.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gv3kW2L3WuFSpQz/py+6t829FJ3egZWD8FtKNnj9mqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gv3kW2L3WuFSpQz/py+6t829FJ3egZWD8FtKNnj9mqY="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/shrimp.2av7vp6qqd.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\shrimp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gv3kW2L3WuFSpQz/py+6t829FJ3egZWD8FtKNnj9mqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2av7vp6qqd"
+        },
+        {
+          "Name": "label",
+          "Value": "cssFiles/shrimp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gv3kW2L3WuFSpQz/py+6t829FJ3egZWD8FtKNnj9mqY="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/shrimp.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\shrimp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7551"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Gv3kW2L3WuFSpQz/py+6t829FJ3egZWD8FtKNnj9mqY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Gv3kW2L3WuFSpQz/py+6t829FJ3egZWD8FtKNnj9mqY="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/style.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"98NKXKDVj9LC4ncQIwuSm6hzwNz0a6jq4jEIAtbkJMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:12:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-98NKXKDVj9LC4ncQIwuSm6hzwNz0a6jq4jEIAtbkJMg="
+        }
+      ]
+    },
+    {
+      "Route": "cssFiles/style.lxxdjfcwga.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\cssFiles\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9703"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"98NKXKDVj9LC4ncQIwuSm6hzwNz0a6jq4jEIAtbkJMg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:12:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lxxdjfcwga"
+        },
+        {
+          "Name": "label",
+          "Value": "cssFiles/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-98NKXKDVj9LC4ncQIwuSm6hzwNz0a6jq4jEIAtbkJMg="
+        }
+      ]
+    },
+    {
+      "Route": "download.png",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\download.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8RklQ/0SRahJvYhE92HEirf6gs7TCT4HjzNllITrZis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:03:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8RklQ/0SRahJvYhE92HEirf6gs7TCT4HjzNllITrZis="
+        }
+      ]
+    },
+    {
+      "Route": "download.x0pp765xus.png",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\download.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "112466"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8RklQ/0SRahJvYhE92HEirf6gs7TCT4HjzNllITrZis=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 22:03:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0pp765xus"
+        },
+        {
+          "Name": "label",
+          "Value": "download.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8RklQ/0SRahJvYhE92HEirf6gs7TCT4HjzNllITrZis="
+        }
+      ]
+    },
+    {
+      "Route": "food.png",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\food.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjZR4ERQpQ9bLVKtIKoXkfyi9i8THAgdZ6oaDv34iGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 13:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TjZR4ERQpQ9bLVKtIKoXkfyi9i8THAgdZ6oaDv34iGw="
+        }
+      ]
+    },
+    {
+      "Route": "food.yrabnxl1et.png",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\food.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5284"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TjZR4ERQpQ9bLVKtIKoXkfyi9i8THAgdZ6oaDv34iGw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 13:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yrabnxl1et"
+        },
+        {
+          "Name": "label",
+          "Value": "food.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TjZR4ERQpQ9bLVKtIKoXkfyi9i8THAgdZ6oaDv34iGw="
+        }
+      ]
+    },
+    {
+      "Route": "home.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WWAk0MJSxKenqjh1caDDJmARcBcZjFHRXuwtnMSIjVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:27:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WWAk0MJSxKenqjh1caDDJmARcBcZjFHRXuwtnMSIjVk="
+        }
+      ]
+    },
+    {
+      "Route": "home.ngl0zgvwl8.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\home.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7275"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WWAk0MJSxKenqjh1caDDJmARcBcZjFHRXuwtnMSIjVk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:27:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ngl0zgvwl8"
+        },
+        {
+          "Name": "label",
+          "Value": "home.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WWAk0MJSxKenqjh1caDDJmARcBcZjFHRXuwtnMSIjVk="
+        }
+      ]
+    },
+    {
+      "Route": "images/berry.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\berry.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mnqkx9gRmwMm+8r2iD5tp/wKlQaYgyQDFTIdDhev894=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mnqkx9gRmwMm+8r2iD5tp/wKlQaYgyQDFTIdDhev894="
+        }
+      ]
+    },
+    {
+      "Route": "images/berry.y4wij5izdv.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\berry.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "94516"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Mnqkx9gRmwMm+8r2iD5tp/wKlQaYgyQDFTIdDhev894=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y4wij5izdv"
+        },
+        {
+          "Name": "label",
+          "Value": "images/berry.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Mnqkx9gRmwMm+8r2iD5tp/wKlQaYgyQDFTIdDhev894="
+        }
+      ]
+    },
+    {
+      "Route": "images/David.ee9hh695pj.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\David.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qKT/T+xepVoFZAJy0va5BY65q109CzSZ/vAVT98qzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ee9hh695pj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/David.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qKT/T+xepVoFZAJy0va5BY65q109CzSZ/vAVT98qzQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/David.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\David.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39784"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1qKT/T+xepVoFZAJy0va5BY65q109CzSZ/vAVT98qzQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1qKT/T+xepVoFZAJy0va5BY65q109CzSZ/vAVT98qzQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/fresh-vegetables-spices-spoons_23-2147694239.avif",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\fresh-vegetables-spices-spoons_23-2147694239.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3arqtlWd9T3PIi9PJqebdatAROYPCpgSyOfdcNeEgKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3arqtlWd9T3PIi9PJqebdatAROYPCpgSyOfdcNeEgKA="
+        }
+      ]
+    },
+    {
+      "Route": "images/fresh-vegetables-spices-spoons_23-2147694239.nbgm12fyoy.avif",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\fresh-vegetables-spices-spoons_23-2147694239.avif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "42320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3arqtlWd9T3PIi9PJqebdatAROYPCpgSyOfdcNeEgKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nbgm12fyoy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fresh-vegetables-spices-spoons_23-2147694239.avif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3arqtlWd9T3PIi9PJqebdatAROYPCpgSyOfdcNeEgKA="
+        }
+      ]
+    },
+    {
+      "Route": "images/gaby-dyson-QX814A1w3j4-unsplash.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\gaby-dyson-QX814A1w3j4-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1439614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qa23ayb8NXYYZWpLMGWYxKUY3Qr2704JtU3QRviz5A8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qa23ayb8NXYYZWpLMGWYxKUY3Qr2704JtU3QRviz5A8="
+        }
+      ]
+    },
+    {
+      "Route": "images/gaby-dyson-QX814A1w3j4-unsplash.p05tznzo84.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\gaby-dyson-QX814A1w3j4-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1439614"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qa23ayb8NXYYZWpLMGWYxKUY3Qr2704JtU3QRviz5A8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "p05tznzo84"
+        },
+        {
+          "Name": "label",
+          "Value": "images/gaby-dyson-QX814A1w3j4-unsplash.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qa23ayb8NXYYZWpLMGWYxKUY3Qr2704JtU3QRviz5A8="
+        }
+      ]
+    },
+    {
+      "Route": "images/ivan-torres-MQUqbmszGGM-unsplash.gggykt4uxr.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\ivan-torres-MQUqbmszGGM-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3291492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MJAtLB4PPm+M0bu9F8lGGbr+ekYfdAqEwhvZEJLN/BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gggykt4uxr"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ivan-torres-MQUqbmszGGM-unsplash.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MJAtLB4PPm+M0bu9F8lGGbr+ekYfdAqEwhvZEJLN/BA="
+        }
+      ]
+    },
+    {
+      "Route": "images/ivan-torres-MQUqbmszGGM-unsplash.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\ivan-torres-MQUqbmszGGM-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3291492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MJAtLB4PPm+M0bu9F8lGGbr+ekYfdAqEwhvZEJLN/BA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MJAtLB4PPm+M0bu9F8lGGbr+ekYfdAqEwhvZEJLN/BA="
+        }
+      ]
+    },
+    {
+      "Route": "images/jenn-kosar-k5VGs9qQubc-unsplash.fppqplgp8o.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\jenn-kosar-k5VGs9qQubc-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2519770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XY5PHMjT/sy2a9RvfIlOTD5PC5ZsJTTa3PU9cd1rKHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fppqplgp8o"
+        },
+        {
+          "Name": "label",
+          "Value": "images/jenn-kosar-k5VGs9qQubc-unsplash.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XY5PHMjT/sy2a9RvfIlOTD5PC5ZsJTTa3PU9cd1rKHk="
+        }
+      ]
+    },
+    {
+      "Route": "images/jenn-kosar-k5VGs9qQubc-unsplash.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\jenn-kosar-k5VGs9qQubc-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2519770"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XY5PHMjT/sy2a9RvfIlOTD5PC5ZsJTTa3PU9cd1rKHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XY5PHMjT/sy2a9RvfIlOTD5PC5ZsJTTa3PU9cd1rKHk="
+        }
+      ]
+    },
+    {
+      "Route": "images/lindsay-cotter-9J7sHieVFi0-unsplash.ev51xx3fxb.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\lindsay-cotter-9J7sHieVFi0-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "657473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BleClt+jjUyUmU/2jg687YyEXWg787Eb2ZH+Gz6kiBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ev51xx3fxb"
+        },
+        {
+          "Name": "label",
+          "Value": "images/lindsay-cotter-9J7sHieVFi0-unsplash.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BleClt+jjUyUmU/2jg687YyEXWg787Eb2ZH+Gz6kiBU="
+        }
+      ]
+    },
+    {
+      "Route": "images/lindsay-cotter-9J7sHieVFi0-unsplash.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\lindsay-cotter-9J7sHieVFi0-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "657473"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BleClt+jjUyUmU/2jg687YyEXWg787Eb2ZH+Gz6kiBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BleClt+jjUyUmU/2jg687YyEXWg787Eb2ZH+Gz6kiBU="
+        }
+      ]
+    },
+    {
+      "Route": "images/luisana-zerpa-MJPr6nOdppw-unsplash.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\luisana-zerpa-MJPr6nOdppw-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1601445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nSXH5IAIt9Oc9Mv3jh3flPOyPFtJNjo1bBm5BygLcIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nSXH5IAIt9Oc9Mv3jh3flPOyPFtJNjo1bBm5BygLcIM="
+        }
+      ]
+    },
+    {
+      "Route": "images/luisana-zerpa-MJPr6nOdppw-unsplash.nrczfs1ped.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\luisana-zerpa-MJPr6nOdppw-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1601445"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nSXH5IAIt9Oc9Mv3jh3flPOyPFtJNjo1bBm5BygLcIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nrczfs1ped"
+        },
+        {
+          "Name": "label",
+          "Value": "images/luisana-zerpa-MJPr6nOdppw-unsplash.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nSXH5IAIt9Oc9Mv3jh3flPOyPFtJNjo1bBm5BygLcIM="
+        }
+      ]
+    },
+    {
+      "Route": "images/Mariam.1jurgbutva.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\Mariam.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s/Ck/c2IMn2IyUt+uSQFbXmN6uG8ViO2PGyHMj2A7g8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1jurgbutva"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Mariam.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s/Ck/c2IMn2IyUt+uSQFbXmN6uG8ViO2PGyHMj2A7g8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Mariam.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\Mariam.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "65912"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s/Ck/c2IMn2IyUt+uSQFbXmN6uG8ViO2PGyHMj2A7g8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s/Ck/c2IMn2IyUt+uSQFbXmN6uG8ViO2PGyHMj2A7g8="
+        }
+      ]
+    },
+    {
+      "Route": "images/masimo-grabar-NzHRSLhc6Cs-unsplash.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\masimo-grabar-NzHRSLhc6Cs-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1041707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1+r4LLkzKG25dzcgga91q4PJ+b3mcuwzFzm+TIMRDHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1+r4LLkzKG25dzcgga91q4PJ+b3mcuwzFzm+TIMRDHE="
+        }
+      ]
+    },
+    {
+      "Route": "images/masimo-grabar-NzHRSLhc6Cs-unsplash.pse1susu8c.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\masimo-grabar-NzHRSLhc6Cs-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1041707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1+r4LLkzKG25dzcgga91q4PJ+b3mcuwzFzm+TIMRDHE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pse1susu8c"
+        },
+        {
+          "Name": "label",
+          "Value": "images/masimo-grabar-NzHRSLhc6Cs-unsplash.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1+r4LLkzKG25dzcgga91q4PJ+b3mcuwzFzm+TIMRDHE="
+        }
+      ]
+    },
+    {
+      "Route": "images/mushroom.en24wp3j2r.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\mushroom.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lgXVblMjlaP5aO2fWBGPYwFx7xDwplrfBNa8804h7uI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "en24wp3j2r"
+        },
+        {
+          "Name": "label",
+          "Value": "images/mushroom.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lgXVblMjlaP5aO2fWBGPYwFx7xDwplrfBNa8804h7uI="
+        }
+      ]
+    },
+    {
+      "Route": "images/mushroom.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\mushroom.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "107485"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lgXVblMjlaP5aO2fWBGPYwFx7xDwplrfBNa8804h7uI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lgXVblMjlaP5aO2fWBGPYwFx7xDwplrfBNa8804h7uI="
+        }
+      ]
+    },
+    {
+      "Route": "images/risto.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\risto.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rb+d1nbloCw28AKmB8hmtlcNIK9ulrHM2RAcGJur3U4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rb+d1nbloCw28AKmB8hmtlcNIK9ulrHM2RAcGJur3U4="
+        }
+      ]
+    },
+    {
+      "Route": "images/risto.lkipxx3itl.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\risto.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "114142"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rb+d1nbloCw28AKmB8hmtlcNIK9ulrHM2RAcGJur3U4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lkipxx3itl"
+        },
+        {
+          "Name": "label",
+          "Value": "images/risto.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rb+d1nbloCw28AKmB8hmtlcNIK9ulrHM2RAcGJur3U4="
+        }
+      ]
+    },
+    {
+      "Route": "images/saundarya-srinivasan-60nzTP7_hMQ-unsplash.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\saundarya-srinivasan-60nzTP7_hMQ-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4289477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gV5nV4b2vux+uGayxqD7gk/2w15wuTVPMtfSn0kllWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gV5nV4b2vux+uGayxqD7gk/2w15wuTVPMtfSn0kllWo="
+        }
+      ]
+    },
+    {
+      "Route": "images/saundarya-srinivasan-60nzTP7_hMQ-unsplash.pmhhju4aq0.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\saundarya-srinivasan-60nzTP7_hMQ-unsplash.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4289477"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gV5nV4b2vux+uGayxqD7gk/2w15wuTVPMtfSn0kllWo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pmhhju4aq0"
+        },
+        {
+          "Name": "label",
+          "Value": "images/saundarya-srinivasan-60nzTP7_hMQ-unsplash.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gV5nV4b2vux+uGayxqD7gk/2w15wuTVPMtfSn0kllWo="
+        }
+      ]
+    },
+    {
+      "Route": "images/Sausage-ragu_8.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\Sausage-ragu_8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OcPYh/TEVd2vjqfp7jBCu9I6fbqYg/N6yCB+WxzHNkc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OcPYh/TEVd2vjqfp7jBCu9I6fbqYg/N6yCB+WxzHNkc="
+        }
+      ]
+    },
+    {
+      "Route": "images/Sausage-ragu_8.vag1k4pqcd.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\Sausage-ragu_8.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "193312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OcPYh/TEVd2vjqfp7jBCu9I6fbqYg/N6yCB+WxzHNkc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vag1k4pqcd"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Sausage-ragu_8.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OcPYh/TEVd2vjqfp7jBCu9I6fbqYg/N6yCB+WxzHNkc="
+        }
+      ]
+    },
+    {
+      "Route": "images/shrimp.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\shrimp.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E9mfESIecBnFCN51zAXCb+Mz48aSXY97Cr6a0/4ISJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E9mfESIecBnFCN51zAXCb+Mz48aSXY97Cr6a0/4ISJg="
+        }
+      ]
+    },
+    {
+      "Route": "images/shrimp.pxnb51149n.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\shrimp.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "143034"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E9mfESIecBnFCN51zAXCb+Mz48aSXY97Cr6a0/4ISJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pxnb51149n"
+        },
+        {
+          "Name": "label",
+          "Value": "images/shrimp.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E9mfESIecBnFCN51zAXCb+Mz48aSXY97Cr6a0/4ISJg="
+        }
+      ]
+    },
+    {
+      "Route": "images/sophie.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\sophie.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NH2AShxnKh/6z88JbY0LcY4BpFWcOvWaLJtKQyCAw54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NH2AShxnKh/6z88JbY0LcY4BpFWcOvWaLJtKQyCAw54="
+        }
+      ]
+    },
+    {
+      "Route": "images/sophie.wnj5kj5mw3.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\images\\sophie.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NH2AShxnKh/6z88JbY0LcY4BpFWcOvWaLJtKQyCAw54=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wnj5kj5mw3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sophie.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NH2AShxnKh/6z88JbY0LcY4BpFWcOvWaLJtKQyCAw54="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mrzPeRN1nwtmlVacfoBWJ7M0RKI0tlxOQ2972RTgVKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:27:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mrzPeRN1nwtmlVacfoBWJ7M0RKI0tlxOQ2972RTgVKA="
+        }
+      ]
+    },
+    {
+      "Route": "index.mh6jhlbxft.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10669"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mrzPeRN1nwtmlVacfoBWJ7M0RKI0tlxOQ2972RTgVKA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:27:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mh6jhlbxft"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mrzPeRN1nwtmlVacfoBWJ7M0RKI0tlxOQ2972RTgVKA="
+        }
+      ]
+    },
+    {
+      "Route": "js/api/authApi.js",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\js\\api\\authApi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RVzcS25pD68VhGbw3ULJIK6hfD8lkQoS7zgP/flcb3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 06:46:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-RVzcS25pD68VhGbw3ULJIK6hfD8lkQoS7zgP/flcb3g="
+        }
+      ]
+    },
+    {
+      "Route": "js/api/authApi.l8xwgf097d.js",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\js\\api\\authApi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "990"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"RVzcS25pD68VhGbw3ULJIK6hfD8lkQoS7zgP/flcb3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 06:46:10 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l8xwgf097d"
+        },
+        {
+          "Name": "label",
+          "Value": "js/api/authApi.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-RVzcS25pD68VhGbw3ULJIK6hfD8lkQoS7zgP/flcb3g="
+        }
+      ]
+    },
+    {
+      "Route": "js/api/recipeApi.6ztjoxo01a.js",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\js\\api\\recipeApi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fiWZl+bMSiO2A8HvZ2zunWr8klOpHdKzemDBrFhS8kY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 02:07:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ztjoxo01a"
+        },
+        {
+          "Name": "label",
+          "Value": "js/api/recipeApi.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fiWZl+bMSiO2A8HvZ2zunWr8klOpHdKzemDBrFhS8kY="
+        }
+      ]
+    },
+    {
+      "Route": "js/api/recipeApi.js",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\js\\api\\recipeApi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1893"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fiWZl+bMSiO2A8HvZ2zunWr8klOpHdKzemDBrFhS8kY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 02:07:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fiWZl+bMSiO2A8HvZ2zunWr8klOpHdKzemDBrFhS8kY="
+        }
+      ]
+    },
+    {
+      "Route": "js/api/subscriptionApi.js",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\js\\api\\subscriptionApi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IHqo+0NInxKfpnHNUfRzfFyS+3cpTuQWBATq8VGEVPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 02:08:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IHqo+0NInxKfpnHNUfRzfFyS+3cpTuQWBATq8VGEVPM="
+        }
+      ]
+    },
+    {
+      "Route": "js/api/subscriptionApi.oq6b7iie6s.js",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\js\\api\\subscriptionApi.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "763"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IHqo+0NInxKfpnHNUfRzfFyS+3cpTuQWBATq8VGEVPM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 02:08:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oq6b7iie6s"
+        },
+        {
+          "Name": "label",
+          "Value": "js/api/subscriptionApi.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IHqo+0NInxKfpnHNUfRzfFyS+3cpTuQWBATq8VGEVPM="
+        }
+      ]
+    },
+    {
+      "Route": "js/recipe.js",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\js\\recipe.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ffT258d0WyNF/GmbxT+UHxGO5oiv5PXJSwXxFZtGaNI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 02:08:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ffT258d0WyNF/GmbxT+UHxGO5oiv5PXJSwXxFZtGaNI="
+        }
+      ]
+    },
+    {
+      "Route": "js/recipe.lebnr8k08q.js",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\js\\recipe.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ffT258d0WyNF/GmbxT+UHxGO5oiv5PXJSwXxFZtGaNI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 02:08:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lebnr8k08q"
+        },
+        {
+          "Name": "label",
+          "Value": "js/recipe.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ffT258d0WyNF/GmbxT+UHxGO5oiv5PXJSwXxFZtGaNI="
+        }
+      ]
+    },
+    {
+      "Route": "Leonardo_Phoenix_09_Create_a_modern_soft_and_friendly_digital_0.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\Leonardo_Phoenix_09_Create_a_modern_soft_and_friendly_digital_0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "486823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YfCe5Fc6q6+ID/UKv0qSxTurxhfYUbL+pPh7zf34foE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 13:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YfCe5Fc6q6+ID/UKv0qSxTurxhfYUbL+pPh7zf34foE="
+        }
+      ]
+    },
+    {
+      "Route": "Leonardo_Phoenix_09_Create_a_modern_soft_and_friendly_digital_0.jv3sx3afzk.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\Leonardo_Phoenix_09_Create_a_modern_soft_and_friendly_digital_0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "486823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YfCe5Fc6q6+ID/UKv0qSxTurxhfYUbL+pPh7zf34foE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 28 Apr 2025 13:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jv3sx3afzk"
+        },
+        {
+          "Name": "label",
+          "Value": "Leonardo_Phoenix_09_Create_a_modern_soft_and_friendly_digital_0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YfCe5Fc6q6+ID/UKv0qSxTurxhfYUbL+pPh7zf34foE="
+        }
+      ]
+    },
+    {
+      "Route": "login.h4uemw5lg9.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/4ly2E3RO8idwipBmvOadZJ4HBlWgoVBIqgxdFUpQw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 06:43:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h4uemw5lg9"
+        },
+        {
+          "Name": "label",
+          "Value": "login.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/4ly2E3RO8idwipBmvOadZJ4HBlWgoVBIqgxdFUpQw0="
+        }
+      ]
+    },
+    {
+      "Route": "login.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\login.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7344"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/4ly2E3RO8idwipBmvOadZJ4HBlWgoVBIqgxdFUpQw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 06:43:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/4ly2E3RO8idwipBmvOadZJ4HBlWgoVBIqgxdFUpQw0="
+        }
+      ]
+    },
+    {
+      "Route": "main.ho0k910w9a.js",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cY2Ib8wzQ6xdLmcrI05RjkfvlbGptydQ1lu6Q0j0eIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ho0k910w9a"
+        },
+        {
+          "Name": "label",
+          "Value": "main.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cY2Ib8wzQ6xdLmcrI05RjkfvlbGptydQ1lu6Q0j0eIE="
+        }
+      ]
+    },
+    {
+      "Route": "main.js",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\main.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cY2Ib8wzQ6xdLmcrI05RjkfvlbGptydQ1lu6Q0j0eIE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cY2Ib8wzQ6xdLmcrI05RjkfvlbGptydQ1lu6Q0j0eIE="
+        }
+      ]
+    },
+    {
+      "Route": "recipe.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\recipe.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOX3o8sEBTbAGNCf9ByKoKZCeKyWAc8hgZ/uuP//cBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:19:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOX3o8sEBTbAGNCf9ByKoKZCeKyWAc8hgZ/uuP//cBw="
+        }
+      ]
+    },
+    {
+      "Route": "recipe.w56fa5lqha.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\recipe.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1674"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DOX3o8sEBTbAGNCf9ByKoKZCeKyWAc8hgZ/uuP//cBw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 01:19:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w56fa5lqha"
+        },
+        {
+          "Name": "label",
+          "Value": "recipe.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DOX3o8sEBTbAGNCf9ByKoKZCeKyWAc8hgZ/uuP//cBw="
+        }
+      ]
+    },
+    {
+      "Route": "Risto.biyfvc71og.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\Risto.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7349"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"czslovW9lOEoBCjNp3zzdnXdr9p3faFraJctnKoPPmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "biyfvc71og"
+        },
+        {
+          "Name": "label",
+          "Value": "Risto.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-czslovW9lOEoBCjNp3zzdnXdr9p3faFraJctnKoPPmA="
+        }
+      ]
+    },
+    {
+      "Route": "Risto.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\Risto.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "7349"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"czslovW9lOEoBCjNp3zzdnXdr9p3faFraJctnKoPPmA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-czslovW9lOEoBCjNp3zzdnXdr9p3faFraJctnKoPPmA="
+        }
+      ]
+    },
+    {
+      "Route": "Screenshot 2025-04-28 005334.png",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\Screenshot 2025-04-28 005334.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s6bUe88J9m32ZymYU1RvXCoTaRoSXEfYwTIvkIMr5xY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 21:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6bUe88J9m32ZymYU1RvXCoTaRoSXEfYwTIvkIMr5xY="
+        }
+      ]
+    },
+    {
+      "Route": "Screenshot 2025-04-28 005334.px5pb94u0q.png",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\Screenshot 2025-04-28 005334.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "198481"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s6bUe88J9m32ZymYU1RvXCoTaRoSXEfYwTIvkIMr5xY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 21:53:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "px5pb94u0q"
+        },
+        {
+          "Name": "label",
+          "Value": "Screenshot 2025-04-28 005334.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6bUe88J9m32ZymYU1RvXCoTaRoSXEfYwTIvkIMr5xY="
+        }
+      ]
+    },
+    {
+      "Route": "script.js",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pCQXSc4H27KRPf7KvVWucoqW6R7y3az5+L89srkyC9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:40:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pCQXSc4H27KRPf7KvVWucoqW6R7y3az5+L89srkyC9o="
+        }
+      ]
+    },
+    {
+      "Route": "script.oltqb2ltp9.js",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pCQXSc4H27KRPf7KvVWucoqW6R7y3az5+L89srkyC9o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:40:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oltqb2ltp9"
+        },
+        {
+          "Name": "label",
+          "Value": "script.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pCQXSc4H27KRPf7KvVWucoqW6R7y3az5+L89srkyC9o="
+        }
+      ]
+    },
+    {
+      "Route": "shrimp.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\shrimp.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1FMBjXzVsLZznzCtYo993yf35n4pLilZmQZuvSBs3MA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1FMBjXzVsLZznzCtYo993yf35n4pLilZmQZuvSBs3MA="
+        }
+      ]
+    },
+    {
+      "Route": "shrimp.w58eb6zttd.html",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\shrimp.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6843"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1FMBjXzVsLZznzCtYo993yf35n4pLilZmQZuvSBs3MA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 00:36:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w58eb6zttd"
+        },
+        {
+          "Name": "label",
+          "Value": "shrimp.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1FMBjXzVsLZznzCtYo993yf35n4pLilZmQZuvSBs3MA="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19138"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qhHWUBzIasazuxTuMJ8P0m3lLIdX7LEFIXSSNDhpiKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 16:48:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qhHWUBzIasazuxTuMJ8P0m3lLIdX7LEFIXSSNDhpiKs="
+        }
+      ]
+    },
+    {
+      "Route": "style.ualu7stooh.css",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19138"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qhHWUBzIasazuxTuMJ8P0m3lLIdX7LEFIXSSNDhpiKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 16:48:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ualu7stooh"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qhHWUBzIasazuxTuMJ8P0m3lLIdX7LEFIXSSNDhpiKs="
+        }
+      ]
+    },
+    {
+      "Route": "WhatsApp Image 2025-04-27 at 22.09.43_fe50de76.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\WhatsApp Image 2025-04-27 at 22.09.43_fe50de76.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fMn6PXC6LUvivz9FC2sYXLYm6XaULLX+XyuJ5vZuAj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 21:42:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fMn6PXC6LUvivz9FC2sYXLYm6XaULLX+XyuJ5vZuAj8="
+        }
+      ]
+    },
+    {
+      "Route": "WhatsApp Image 2025-04-27 at 22.09.43_fe50de76.kc81a7xy01.jpg",
+      "AssetFile": "C:\\Users\\alaa\\OneDrive\\Documents\\Desktop\\AboutUs\\wwwroot\\WhatsApp Image 2025-04-27 at 22.09.43_fe50de76.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "117320"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fMn6PXC6LUvivz9FC2sYXLYm6XaULLX+XyuJ5vZuAj8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 21:42:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kc81a7xy01"
+        },
+        {
+          "Name": "label",
+          "Value": "WhatsApp Image 2025-04-27 at 22.09.43_fe50de76.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fMn6PXC6LUvivz9FC2sYXLYm6XaULLX+XyuJ5vZuAj8="
+        }
+      ]
+    }
+  ]
+}
