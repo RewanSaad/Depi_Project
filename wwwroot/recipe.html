@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Recipes - Foodie</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="cssFiles/recipe.css" />
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+  />
+  <link
+    href="https://fonts.googleapis.com/css?family=Pacifico&display=swap"
+    rel="stylesheet"
+  />
+</head>
+<body>
+  <header>
+    <div class="logo">Foodie <span id="logo-recipe">Recipes</span></div>
+    <nav>
+      <ul>
+        <li><a href="home.html">Home</a></li>
+        <li><a href="#" class="active">Recipes</a></li>
+        <li><a href="index.html">About Us</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+        <li><a href="login.html">Login</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h1>Recipes</h1>
+      <ul id="recipe-list" class="recipe-list"></ul>
+      <button id="load-more-btn">Load More</button>
+    </section>
+
+    <section id="recipe-details" class="recipe-details" style="display:none;">
+      <button id="back-to-list">Back to List</button>
+      <h2 id="recipe-title"></h2>
+      <img id="recipe-image" class="recipe-image" src="" alt="Recipe Image" />
+      <p id="recipe-description"></p>
+      <h3>Ingredients</h3>
+      <ul id="recipe-ingredients" class="ingredients"></ul>
+      <h3>Instructions</h3>
+      <ol id="recipe-instructions" class="instructions"></ol>
+    </section>
+  </main>
+
+  <script src="js/recipe.js"></script>
+</body>
+</html>

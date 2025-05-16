@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Foodie Recipe</title>
+    <link rel="stylesheet" href="cssFiles/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Pacifico&display=swap"
+      rel="stylesheet"
+    />
+</head>
+<body>
+    <header>
+        <div class="logo">Foodie <span id="logo-recipe">Recipes</span></div>
+        <nav>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="recipe.html">Recipes</a></li>
+                <li><a href="index.html">About Us</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="login.html">Login</a></li>
+            </ul>
+        </nav>
+        <div class="search-bar">
+            <input type="text" placeholder="Search in site" />
+            <button>Search</button>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="hero-content">
+            <h1 id="typing-text"></h1>
+            <p>Explore a world of delicious recipes and order fresh ingredients conveniently.</p>
+            <button class="get-started"><span>Get Started</span></button>
+        </div>
+        <div class="hero-image">
+            <img src="images/Sausage-ragu_8.jpg" />
+        </div>
+    </section>
+    <section class="featured-recipes">
+        <h2 id="title">Featured Recipes</h2>
+        <div class="recipe-grid"></div>
+    </section>
+    <section>
+        <h1 id="tex">How It Works</h1>
+        <p>Experience cooking made easy with Foodie Delights.</p>
+        <div class="container">
+            <div class="left-section">
+                <div class="row">
+                    <div class="card">
+                        <img src="images/masimo-grabar-NzHRSLhc6Cs-unsplash.jpg" alt="Pizza" />
+                        <h3>Explore Recipes</h3>
+                        <p>Find your perfect meal...</p>
+                    </div>
+                    <div class="card">
+                        <iframe
+                            width="560"
+                            height="315"
+                            src="https://www.youtube.com/embed/PcXc8IJXHWw?si=y2hvqZ7YaolMR0fS"
+                            title="YouTube video player"
+                            frameborder="0"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            referrerpolicy="strict-origin-when-cross-origin"
+                            allowfullscreen
+                        ></iframe>
+                        <h3>Video Tutorials</h3>
+                        <p>Learn cooking techniques.</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="images/gaby-dyson-QX814A1w3j4-unsplash.jpg" alt="Dessert" />
+                    <h3>Order Ingredients</h3>
+                    <p>Get quality ingredients delivered to your doorstep.</p>
+                </div>
+            </div>
+            <div class="image-section">
+                <img src="images/lindsay-cotter-9J7sHieVFi0-unsplash.jpg" alt="Cake being decorated" />
+            </div>
+        </div>
+    </section>
+    <section>
+        <div class="reviews-container">
+            <h2 id="te">Customer Reviews</h2>
+            <div class="reviews">
+                <div class="review-card">
+                    <div class="user-info">
+                        <img src="images/sophie.jpg" alt="Sophie" class="user-image" />
+                        <span class="user-name">Sophie</span>
+                    </div>
+                    <div class="rating">*****</div>
+                    <p>I love how easy it is to find and cook amazing recipes using this app!</p>
+                </div>
+                <div class="review-card">
+                    <div class="user-info">
+                        <img src="images/David.jpg" alt="David" class="user-image" />
+                        <span class="user-name">David</span>
+                    </div>
+                    <div class="rating">*****</div>
+                    <p>The ingredient ordering feature has saved...</p>
+                </div>
+                <div class="review-card">
+                    <div class="user-info">
+                        <img src="images/Mariam.jpg" alt="Emma" class="user-image" />
+                        <span class="user-name">Mariam</span>
+                    </div>
+                    <div class="rating">*****</div>
+                    <p>The recipes are top-notch, and the deliver...</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <footer class="footer food-footer">
+      <div class="footer-social-row">
+        <span>Get connected with us on social networks:</span>
+        <div class="footer-social">
+          <a href="#" aria-label="Instagram"><i class="fab fa-instagram"></i></a>
+          <a href="#" aria-label="Facebook"><i class="fab fa-facebook"></i></a>
+          <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+        </div>
+      </div>
+      <div class="footer-main">
+        <div class="footer-col">
+          <h3><i class="fas fa-utensils"></i> Foodie</h3>
+          <p>
+            Foodie is your friendly kitchen companion! Discover, cook, and share
+            delicious recipes with a community that loves food as much as you do.
+            <br /><span style="color: #e85aad">Eat. Create. Celebrate!</span>
+          </p>
+        </div>
+        <div class="footer-col">
+          <h4><i class="fas fa-carrot"></i> Recipes</h4>
+          <ul>
+            <li><a href="index.html#recipes">Breakfast Ideas</a></li>
+            <li><a href="index.html#recipes">Healthy Snacks</a></li>
+            <li><a href="index.html#recipes">Family Dinners</a></li>
+            <li><a href="index.html#recipes">Desserts</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4><i class="fas fa-link"></i> Useful Links</h4>
+          <ul>
+            <li><a href="login.html">Your Account</a></li>
+            <li><a href="index.html">Submit a Recipe</a></li>
+            <li><a href="index.html">Cooking Tips</a></li>
+            <li><a href="index.html">Help Center</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4><i class="fas fa-envelope"></i> Contact</h4>
+          <ul>
+            <li><i class="fas fa-map-marker-alt"></i> Cairo, Egypt</li>
+            <li><i class="fas fa-envelope"></i> info@foodie.com</li>
+            <li><i class="fas fa-phone"></i> +20 123 456 789</li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span
+          >© 2025 Foodie. Made with <span style="color: #e85aad;">&#127859;</span>
+          by the Foodie Team.</span
+        >
+      </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

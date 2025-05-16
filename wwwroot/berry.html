@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Foodie Recipe</title>
+    <link rel="stylesheet" href="cssFiles/berry.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Foodie <span id="logo-recipe">Recipes</span></div>
+        <nav>
+            <ul>
+                <li><a href="home.html">Home</a></li>
+                <li><a href="#">Browse Recipes</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="login.html">Login</a></li>
+            </ul>
+           
+        </nav>
+        <div class="search-bar">
+            <input type="text" placeholder="Search in site">
+            <button>Search</button>
+    </header>
+
+    <div class="recipe-header">
+        <div class="recipe-header-image">
+            <img src="images/berry.jpg" alt="وصف لطبق الوصفة">
+            <a href="https://www.youtube.com/watch?v=Ea2b1WIPHvA" class="watch-video-button">Watch Video</a>
+        </div>
+        <div class="basic-info">
+            <span class="yield">Yield: <span>20</span></span>
+            <span class="serving">Serving: <span>12</span></span>
+            <span class="prep-time">Prep time: <span>6 m</span></span>
+            <span class="cook-time">Cook time: <span>15 m</span></span>
+            <span class="ready-in">Ready in: <span>30 m</span></span>
+        </div>
+    </div>
+
+    <div class="recipe-details">
+        <div class="recipe-meta">
+            <div class="meta-info">
+                <span class="cuisine">Cuisine: <span>Middle Eastern</span></span>
+                <span class="course">Course: <span>Snack</span></span>
+                <span class="skill-level">Skill Level: <span> Easy</span></span>
+            </div>
+            <div class="rating">
+                <span class="stars">⭐⭐⭐⭐⭐</span>
+                <span>(4 / 5)</span>
+            </div>
+        </div>
+
+        <div class="recipe-description">
+            <p>Cihha Berry Budding is a refreshing, light, and healthy fusion recipe combining elements from both traditional and modern kitchens...</p>
+        </div>
+
+        <div class="ingredients">
+            <h2>Ingredients</h2>
+            <div class="ingredient-tabs">
+                <button class="ingredient-tab active" data-tab="shake">Shake</button>
+                <button class="ingredient-tab" data-tab="marination">Marination</button>
+                <button class="ingredient-tab" data-tab="raita">Raita</button>
+            </div>
+           
+            <div class="ingredient-lists">
+                <ul id="shake-ingredients" class="ingredient-list active">
+                    <li><input type="checkbox"> Cihha berries (about 100 grams)</li>
+                    <li><input type="checkbox"> 1 ripe banana (peeled)</li>
+                    <li><input type="checkbox"> 1/2 cup plain yogurt</li>
+                    <li><input type="checkbox"> Honey or sugar (to taste)</li>
+                    <li><input type="checkbox">1 cup almond milk (or any milk of your choice) </li>
+                    <li><input type="checkbox"> Cinnamon (optional, a small pinch)</li>
+                    <button class="place">order ingredients</button>
+                </ul>
+               
+                <ul id="marination-ingredients" class="ingredient-list">
+                    <li><input type="checkbox"> 1 tbsp lemon juice</li>
+                    <li><input type="checkbox"> A pinch of salt (optional)</li>
+                    <li><input type="checkbox"> Ground ginger </li>
+                </ul>
+                <ul id="raita-ingredients" class="ingredient-list">
+                    <li><input type="checkbox"> 1/4 cup grated cucumber </li>
+                    <li><input type="checkbox"> 1 tbsp fresh mint (chopped) </li>
+                    <li><input type="checkbox"> 1/4 tsp cumin powder (optional) </li>
+                </ul>
+               
+            </div>
+          
+        </div>
+        <div class="steps">
+            <h2>Step by step method</h2>
+            <div class="step">
+                <h3>Step 1</h3>
+                <p>Add Cihha berries, the banana, yogurt, honey (or sugar), and almond milk to a blender,Blend until smooth and creamy.</p>
+            </div>
+                <div class="step">
+                    <h3>Step 2</h3>
+                    <p>If you like a warm flavor, add a pinch of cinnamon and blend again.</p>
+                </div>
+
+                <div class="step">
+                    <h3>Step 3</h3>
+                    <p>Let the berries marinate in the mixture for at least 30 minutes to allow the flavors to meld together.</p>
+                </div>
+
+            </div>
+
+        <div class="tips-variations">
+            <h2>Tips & variations</h2>
+            <ul>
+                <li><span class="checkmark">✓</span> Berry choice: If Cihha berries are unavailable, you can substitute with cranberries or pomegranate seeds for a similar tartness.</li>
+                <li><span class="checkmark">✓</span> Enhancing flavor: Add a few drops of rose water or a pinch of cardamom in the shake or raita for a more exotic flavor profile.</li>
+                <li><span class="checkmark">✓</span> Perfect marination: For a richer flavor, allow the berries to marinate for a longer time, even up to 2-3 hours if possible.</li>
+            </ul>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

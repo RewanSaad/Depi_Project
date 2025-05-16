@@ -1,0 +1,36 @@
+.recipe-list {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 0;
+  list-style: none;
+}
+.recipe-item {
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s ease;
+}
+.recipe-item:hover {
+  background-color: #f9f9f9;
+}
+.recipe-details {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+.recipe-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+h2, h3 {
+  color: #e85aad;
+}
+ul.ingredients, ol.instructions {
+  margin-left: 1.5rem;
+}

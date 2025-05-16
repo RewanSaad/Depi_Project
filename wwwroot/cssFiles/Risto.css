@@ -1,0 +1,334 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+#logo-recipe {
+    color: red;
+    animation: colorChange 1s infinite alternate;
+    cursor: pointer;
+  }
+  
+  @keyframes colorChange {
+    0%   { color: red; transform: scale(1); }
+    50%  { color: rgb(0, 0, 0); transform: scale(1.1); }
+    100% { color: red; transform: scale(1); }
+  }
+  
+  @keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-3px); }
+    50% { transform: translateX(3px); }
+    75% { transform: translateX(-3px); }
+    100% { transform: translateX(0); }
+  }
+  
+  .shake {
+    animation: shake 0.3s;
+  }
+  
+
+header .logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+}
+.nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    z-index: 9999;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    padding: 5px 10px;
+  }
+  
+  nav a:hover {
+    color: red;
+    text-shadow:0 0 5px #b30000, red, 0 0 20px #b30000;
+    transform: translateY(-1px);
+  }
+  
+  nav ul li button {
+    font-size: 20px;
+    color: white;
+    outline: none;
+    border: none;
+    background: transparent;
+    cursor: pointer;
+    font-family: sans-serif;
+  }
+  
+header nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .nav-actions {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  
+
+
+header nav ul li {
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+header .search-bar {
+    display: flex;
+}
+
+header .search-bar input {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+header .search-bar button {
+    padding: 8px 15px;
+    background-color: #060707;
+    color: white;
+    border: none;
+}
+
+
+.recipe-header {
+    width: 70%;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.recipe-header-image {
+    position: relative;
+    width: 100%;
+    margin-bottom: 0; /* هنشيل المسافة من هنا عشان الشريط الأسود يلزق في الصورة */
+}
+
+.recipe-header-image img {
+    display: block;
+    width: 100%;
+    height: 500px;
+    border-radius: 8px;
+}
+
+
+.basic-info {
+    display: flex;
+    color: white; /* لون الخط أبيض */
+    background-color: black; /* لون الخلفية أسود */
+    width: 100%; /* ياخد كامل عرض الصورة */
+    justify-content: space-around; /* توزيع العناصر بمسافات متساوية بينهم وبين الأطراف */
+    padding: 8px 0; /* مسافة رأسية بسيطة */
+    font-size: 0.9em; /* حجم خط أصغر شوية */
+    text-align: center; /* توسيط النص داخل كل عنصر */
+    border-radius: 0 0 8px 8px; /* نفس انحناء أطراف الصورة من الأسفل */
+}
+
+.basic-info span {
+    display: block;
+    font-weight: bold;
+}
+.recipe-details {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px auto; /* توسيط الحاوية وتقليل الهوامش الجانبية */
+    width: 70%; /* نفس عرض الصورة والمعلومات */
+}
+
+/* بقية تنسيقات الـ CSS */
+.watch-video-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: red;
+    color: white;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}
+
+.watch-video-button:hover {
+    opacity: 6;
+}
+
+.basic-info {
+    display: flex; /* عشان العناصر تكون جنب بعض أفقياً */
+    gap: 40px; /* مسافة بين العناصر */
+    margin-top: 0px; /* مسافة بين الصورة والمعلومات */
+    color: white; /* تغيير لون الخط للأسود */
+    justify-content: center; /* توسيط العناصر أفقياً */
+    width: 100%; /* عشان ياخد عرض الحاوية ويتوزع جواه */
+}
+
+.basic-info span {
+    display: block;
+    font-weight: bold; /* ممكن تخلي الخط عريض عشان يكون أوضح */
+    text-align: center; /* توسيط الكلام داخل كل span لو احتاجتِ */
+}
+
+.recipe-details {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px auto; /* توسيط الحاوية وتقليل الهوامش الجانبية */
+    width: 70%; /* نفس عرض الصورة والمعلومات */
+}
+
+/* بقية تنسيقات الـ CSS */
+/* ... باقي تنسيقات الـ CSS ... */
+
+.ingredient-tabs {
+    display: flex;
+    margin-bottom: 15px;
+}
+
+.ingredient-tab {
+    background-color: #f0f0f0;
+    color: #333;
+    border: none;
+    padding: 8px 15px;
+    cursor: pointer;
+    border-radius: 5px 5px 0 0;
+    margin-right: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.ingredient-tab:hover {
+    background-color: #ddd;
+}
+
+.ingredient-tab.active {
+    background-color:red; /* لون أخضر للزرار النشط */
+    color: white;
+}
+
+.ingredient-lists .ingredient-list {
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-top: none;
+    border-radius: 0 5px 5px 5px;
+}
+
+.ingredient-lists .ingredient-list:not(.active) {
+    display: none; /* إخفاء القوائم غير النشطة في البداية */
+}
+
+.ingredients ul {
+    list-style: none;
+    padding: 0;
+}
+
+.ingredients li {
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.ingredients li input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+
+.steps {
+    margin-bottom: 30px;
+}
+
+/* ... باقي تنسيقات الـ CSS ... */
+
+.tips-variations {
+    margin-top: 50px; /* إضافة مسافة من الأعلى */
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    border: 1px solid #eee;
+}
+
+
+.recipe-meta {
+    display: flex;
+    justify-content: space-between; /* عشان يحط العناصر على الأطراف */
+    align-items: center; /* عشان يخليهم في نفس المحاذاة الرأسية */
+    margin-bottom: 20px;
+    color: #555;
+}
+
+.recipe-meta .meta-info {
+    display: flex;
+    gap: 20px; /* مسافة بين Cuisine, Course, Skill Level */
+}
+
+.recipe-meta .rating {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.recipe-meta .stars {
+    color: gold;
+    font-size: 1.2em;
+}
+
+.ingredients-nutrients {
+    display: flex;
+    gap: 30px;
+    margin-bottom: 30px;
+}
+
+.ingredients, .nutrients {
+    flex: 1;
+}
+
+.place{
+    top: 10px;
+    right: 10px;
+    background-color: red;
+    color: white;
+    padding: 8px 10px;
+    text-decoration: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+}

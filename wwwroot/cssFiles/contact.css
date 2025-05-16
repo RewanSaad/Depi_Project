@@ -1,0 +1,352 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+#logo-recipe {
+    color: red;
+    animation: colorChange 1s infinite alternate;
+    cursor: pointer;
+  }
+  
+  @keyframes colorChange {
+    0%   { color: red; transform: scale(1); }
+    50%  { color: rgb(0, 0, 0); transform: scale(1.1); }
+    100% { color: red; transform: scale(1); }
+  }
+  
+  @keyframes shake {
+    0% { transform: translateX(0); }
+    25% { transform: translateX(-3px); }
+    50% { transform: translateX(3px); }
+    75% { transform: translateX(-3px); }
+    100% { transform: translateX(0); }
+  }
+  
+  .shake {
+    animation: shake 0.3s;
+  }
+  
+
+header .logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+}
+.nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    z-index: 9999;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    transition: all 0.3s ease;
+    padding: 5px 10px;
+  }
+  
+  nav a:hover {
+    color: red;
+    text-shadow:0 0 5px #b30000, red, 0 0 20px #b30000;
+    transform: translateY(-1px);
+  }
+  
+    
+
+header nav ul li {
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+header .search-bar {
+    display: flex;
+}
+
+header .search-bar input {
+    padding: 8px;
+    border: 1px solid #ccc;
+}
+
+header .search-bar button {
+    padding: 8px 15px;
+    background-color: #060707;
+    color: white;
+    border: none;
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+  }
+  
+  
+  
+  main {
+    min-height: calc(100vh - 70px); /* 100vh - nav height */
+    background: url('/DEPI graduation project/images/fresh-vegetables-spices-spoons_23-2147694239.avif') no-repeat center center/cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 20px;
+  }
+  
+  .form-box {
+    background: rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(20px);
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+    height: 440px;
+    width: 600px;
+    color: #333;
+  }
+  
+  .form-box h1 {
+    margin: 0 0 10px;
+    text-align: center;
+  }
+  
+  
+  .form-box label {
+    display: block;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+   
+  .form-box textarea {
+    width: 100%;
+    height: 150px;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    font-size: 14px;
+  }
+  .form-box input{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    font-size: 14px;
+
+  }
+  
+  .form-box input::placeholder,
+  .form-box textarea::placeholder {
+    color: #555;
+  }
+  .form-box button {
+    margin-top: 20px;
+    padding: 8px 16px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    width: 300px;
+    height: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transition: all 0.3s ease;
+    position: relative;
+
+  }
+  .form-box button::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: -100%;
+    width: 100%;
+    height: 100%;
+    background-color: red;
+    transition: all 0.3s ease;
+    z-index: 0;
+  }
+  
+  .form-box button:hover::after {
+    right: 0;
+  }
+  
+  .form-box button {
+    overflow: hidden;
+  }
+  .form-box button span {
+    position: relative;
+    z-index: 1;
+  }
+    
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .form-box {
+      width: 90%;
+    }
+  }
+  footer {
+    background-color: #f0f0f0;
+    padding: 50px 0; /* كبرت البادينج */
+    text-align: center;
+    border-top: 2px solid #ced8dc;
+    z-index: 1000;
+    box-shadow: 0 -5px 20px rgba(0, 0, 0, 0.1); /* ظل للفوق كده */
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px; /* وسعنا المسافات شوية */
+    flex-wrap: wrap; /* لو الشاشة صغرت ينزلوا تحت */
+}
+
+footer a {
+    color: #070707;
+    text-decoration: none;
+    font-size: 20px; /* كبرت حجم الخط */
+    transition: all 0.3s ease;
+}
+
+footer a:hover {
+    color: #d80e0e;
+    text-shadow: red, 0 0 10px #d80e0e; /* تأثير glow */
+}
+
+nav a.active {
+  color: red;
+  font-weight: bold;
+  text-decoration: none;
+}
+.footer.food-footer {
+    background: linear-gradient(90deg, #fdeaf4 0%, #fff 100%);
+    border-radius: 0;
+    margin: 0 auto;
+    padding: 0;
+    box-shadow: none;
+    text-align: center;
+    color: #333;
+    position: relative;
+    overflow: hidden;
+}
+
+.footer-social-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background: rgba(255, 255, 255, 0.1);
+    border-bottom: 1px solid rgba(232, 90, 173, 0.1);
+}
+
+.footer-social-row span {
+    font-weight: 600;
+    color: #e85aad;
+}
+
+.footer-social {
+    display: flex;
+    gap: 1.2rem;
+}
+
+.footer-social a {
+    color: #fff;
+    background: #e85aad;
+    font-size: 1.2rem;
+    transition: color 0.2s, background 0.2s, transform 0.2s;
+    border-radius: 50%;
+    padding: 0.3em;
+    box-shadow: 0 2px 8px #fdeaf4;
+}
+
+.footer-social a:hover {
+    color: #e85aad;
+    background: #fff0f6;
+    transform: scale(1.15);
+}
+
+.footer-main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 2rem;
+    gap: 2rem;
+}
+
+.footer-col {
+    flex: 1;
+    min-width: 200px;
+    text-align: left;
+}
+
+.footer-col h3, .footer-col h4 {
+    color: #e85aad;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+}
+
+.footer-col p {
+    color: #666;
+    font-size: 0.9rem;
+    line-height: 1.5;
+}
+
+.footer-col ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-col ul li {
+    margin-bottom: 0.5rem;
+}
+
+.footer-col ul li a {
+    color: #666;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.footer-col ul li a:hover {
+    color: #e85aad;
+}
+
+.footer-bottom {
+    background: rgba(0, 0, 0, 0.05);
+    padding: 1rem;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #666;
+}
+
